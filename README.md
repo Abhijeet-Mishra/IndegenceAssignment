@@ -1,2 +1,0 @@
-# IndegenceAssignment
-Created with CodeSandbox
